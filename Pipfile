@@ -7,9 +7,12 @@ name = "pypi"
 numpy = "*"
 matplotlib = "*"
 pillow = "*"
-jupyter = "*"
 notebook = "*"
 ipykernel = "*"
+scipy = "*"
+traitlets = "==5.1.0"
+jedi-language-server = "*"
+jupyter = "*"
 
 [dev-packages]
 
